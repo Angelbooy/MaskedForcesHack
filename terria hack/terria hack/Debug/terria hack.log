@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(26): warning C4244: '+=': conversion from 'float' to 'LONGLONG', possible loss of data
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(43): warning C4244: '+=': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(58): warning C4244: '+=': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(78): error C3861: 'DetourTransactionBegin': identifier not found
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(79): error C3861: 'DetourUpdateThread': identifier not found
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(80): error C3861: 'DetourAttach': identifier not found
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(81): error C3861: 'DetourAttach': identifier not found
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(82): error C3861: 'DetourAttach': identifier not found
+c:\users\aidernnn\source\repos\terria hack\terria hack\header.h(83): error C3861: 'DetourTransactionCommit': identifier not found
